@@ -7,7 +7,7 @@ pasta
 chicken
 
 
-Beans
-pizza
+Beans 1
+pizza 1
 
 Thank you :)
